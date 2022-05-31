@@ -1,0 +1,30 @@
+.jumbotron{
+    background-image: url('img/awal.jpg');
+    background-attachment: fixed;
+    color: white;
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 450px;
+    padding-top: 5rem;
+    text-shadow: 100px;    
+}
+
+.section{
+    padding-top: 5rem;
+}
+
+#paket{
+    background-image: url('/img/paketwisata/paket1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#about{
+    background-image: url('/img/paketwisata/paket1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h2{
+    color: wh;
+}
